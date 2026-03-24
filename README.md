@@ -1,6 +1,6 @@
   🔢  Minesweeper 🔢
 
-🛑---How to Run the application---🛑
+🛑How to Run the application
 
 Using an IDE
 
@@ -14,7 +14,7 @@ Using Command Line
 3.Run the application: "java MineSweeperFrame"
 4.The game window will appear and you can start playing.
 
-↕️---Controls----↔️
+↕️Controls
 
 Left Click: Reveal a cell
 Right Click: Place/remove a flag
@@ -24,7 +24,7 @@ Difficulty Dropdown: Change grid size and mine count
          MEDIUM - Gride size(10), Mines count(20) 
          HARD - Gride size(12), Mines count(30)
 
-🎉----Winning Condition----🎉
+🎉Winning Condition
 
 * Reveal all non-mine cells to win. Clicking a mine ends the game.
 * When a player reveals a mine cell, the game will over.
